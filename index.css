@@ -1,0 +1,22 @@
+body{
+	background: #FFA500;
+}
+img{
+	width: 200px;
+}
+.name{
+	position:absolute;
+	left:230px;
+	top:5px;
+}
+h2{
+	position:absolute;
+	left:230px;
+	top:60px;
+}
+h1{
+	position:absolute;
+	left:10px;
+	top:200px;
+}
+}
